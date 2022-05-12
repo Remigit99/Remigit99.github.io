@@ -1,0 +1,41 @@
+
+
+.clinic-post{
+    margin-top: 20px;
+    display: flex;
+}
+
+
+.clinic-post .clinic-img{
+    width: 100%;
+}
+
+
+.latest-post{
+    background-color: #147119;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.post{
+    /* padding: 10px; */
+    width: 80%;
+    margin-left: 10px;
+}
+
+.post-1{
+    margin: 10px 0 10px 0;
+}
+
+.post-1 img{
+    margin-right: 5px;
+    
+}
+
+.post .post-1{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 0;
+    
+}
